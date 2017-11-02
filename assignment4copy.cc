@@ -33,7 +33,7 @@ ___________________ wired
 
 
 using namespace ns3;
-NS_LOG_COMPONENT_DEFINE ("Assignment4");
+NS_LOG_COMPONENT_DEFINE ("Network Simulation");
 
 int main(int argc, char *argv[])
 {
